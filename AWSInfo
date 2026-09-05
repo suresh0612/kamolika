@@ -1,0 +1,136 @@
+AWS
+
+https://aws.amazon.com/resources/create-account/
+
+https://aws.amazon.com/console/
+
+
+
+
+gmail id - sureshacharidevops@gmail.com
+pwd - Kamolika12@suresh
+
+
+aws IAM account id -2262-3425-9998
+Account Name- SureshU
+
+
+arn:aws:iam::226234259998:root
+
+
+
+
+GIT HUB
+
+https://github.com/suresh0612?tab=repositories
+
+https://github.com/PL-AWS-Cloud-DevOps-2807/AWS_Training_Documents
+
+
+https://github.com/Prabu2802/devops26-study-guides
+
+
+Docker Hub
+
+https://app.docker.com/accounts/sureshacharidevops
+
+username - sureshacharidevops
+
+
+VS code
+
+https://code.visualstudio.com/download
+
+
+https://mobaxterm.mobatek.net/download-home-edition.html
+
+
+AWS Global Infrastructure
+
+https://aws.amazon.com/about-aws/global-infrastructure/
+
+
+AWS IAM User
+
+pldevopsuser01 / Kamolika23#suresh
+
+MFA==>Device Name==>IAMUserSamsungS23
+
+Access Key ===> AKIATJLE43IPGTBLT7GD
+Secret Key ===> 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
+
+
+IAM Group
+
+pldevops-sureshgrp01
+
+Console sign-in URL
+https://226234259998.signin.aws.amazon.com/console
+pldevopsuser01 /Kamolika12@suresh
+ARN ===> arn:aws:iam::226234259998:user/pldevopsuser01
+
+
+IAM Role
+
+pldevops-service-role-EC2
+
+IAM policy
+
+pldevops-service-role
+
+EC2 Instance
+
+pldevops-EC2-instance
+
+
+https://www.youtube.com/@LearnWithKASTRO
+
+
+
+
+
+
+'launch-wizard-1
+
+
+public ip
+
+before stop
+13.232.176.236  
+after stop
+blank
+
+restart
+3.108.52.13   
+
+
+
+Apache
+
+To install apache from command prompt
+
+httpd.exe -k install
+
+
+To uninstall apache
+
+httpd.exe -k install
+
+
+
+08/08
+
+
+
+IAM
+
+10/08 
+11/08
+
+S3
+
+13/08
+14/08
+
+
+
